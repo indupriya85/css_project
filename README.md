@@ -10,4 +10,4 @@ Amazon Homepage Clone using HTML & CSS — A responsive front-end project inspir
 
 ## Project Preview
 
-![Amazon Homepage Clone](amazon-homepage.png)
+![Amazon Homepage Clone](amazon-homepage.jpg)
